@@ -1,0 +1,10 @@
+
+
+.project{width: 300px;padding: 10px;margin-right:20px;border:5px dotted red;overflow:hidden;float:right;position:relative;top:50px}
+header{color:red}
+header:hover{color:blue} 
+#abc:hover{display:none} 
+#message:hover{display:none} 
+:target{
+    background-color:#FFFF00;;
+}
